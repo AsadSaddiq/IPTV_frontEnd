@@ -1,0 +1,43 @@
+.navContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* background-color: rgba(83, 81, 78, 0.384); */
+  background-color: rgba(194, 199, 199, 0.705);
+
+  width: 100%;
+  height: 50px;
+  position: fixed;
+}
+.linkContainer {
+  display: flex;
+  align-items: center;
+}
+.navlink {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  margin-right: 50px;
+}
+
+.logoSection {
+  margin-left: 30px;
+}
+.logo {
+  width: 100px;
+  margin-top: 10px;
+}
+.active {
+  color: rgba(110, 126, 216, 0.788);
+}
+.logen {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  margin-right: 50px;
+  cursor: pointer;
+}

@@ -1,0 +1,18 @@
+.FormContainer {
+  width: 600px;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  background-color: rgb(238, 245, 245);
+  border-radius: 12px;
+}
+.Field {
+  margin: 6px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  width: 500px;
+}

@@ -1,0 +1,10 @@
+.field {
+  display: flex;
+  flex-direction: column;
+}
+span.field {
+  color: red;
+}
+.title {
+  padding-bottom: 40px;
+}

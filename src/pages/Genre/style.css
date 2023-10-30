@@ -1,0 +1,19 @@
+.genre {
+  padding: 16px;
+}
+.titleName {
+  color: blue;
+  margin: 6px;
+}
+.genTitle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+}
+.addBtn {
+  font-size: 18px;
+  font-weight: 800;
+  color: blue;
+  /* border: 2px solid; */
+}
